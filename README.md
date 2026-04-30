@@ -23,16 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Calladitya&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Calladitya&theme=tokyonight" />
-</p>
-
----
-
 ## 🧠 LeetCode Stats
 
 <p align="center">
@@ -41,30 +31,11 @@
 
 ---
 
-## 📚 Current Focus
-
-* 🚀 Solving NeetCode 250
-* ⚡ Improving problem-solving speed
-* 🏗️ Building scalable backend systems
-
----
-
 ## 🔥 Featured Projects
 
 * 📝 Blog App → Full backend system with auth, likes & comments
 * 🔐 Authentication System → Secure login/signup with JWT
-* 🎵 Gesture Music Player → Hand tracking based control
-
 ---
-
-## 🎯 2026 Goals
-
-* 🧠 Solve 300+ DSA problems
-* 💼 Crack a product-based company
-* 🚀 Build 3 production-level projects
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
