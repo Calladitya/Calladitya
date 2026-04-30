@@ -1,6 +1,8 @@
 ## Hi there 👋
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+Enthusiast;Strong+DSA+With+CPP;Backend+Engineer&center=true&size=25)
 
+![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **Calladitya/Calladitya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
