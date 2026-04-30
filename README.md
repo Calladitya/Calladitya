@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi20%20There%20Aditya%20Nath%20Tiwari&fontSize=30&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20%20There%20Aditya%20Nath%20Tiwari&fontSize=30&fontColor=ffffff" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Strong+DSA+with+C%2B%2B;Full+Stack+Developer;Backend+Engineer;Consistent+Learner&center=true&size=25">
@@ -58,5 +58,3 @@
 <p align="center">
   ⭐ Keep Learning | Keep Building | Keep Growing 🚀
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Aditya%20Nath%20Tiwari&fontSize=30&fontColor=ffffff" />
