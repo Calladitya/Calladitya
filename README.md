@@ -1,7 +1,8 @@
 ## Hi there 👋
 ![Typing](https://readme-typing-svg.herokuapp.com/?lines=Strong+DSA+With+CPP;Full+Stack+Developer+Enthusiast;Backend+Engineer&center=true&size=25)
-
-![Snake animation](https://github.com/Calladitya/Calladitya/blob/output/github-contribution-grid-snake.svg)
+![Stats](https://github-readme-stats.vercel.app/api?username=Calladitya&show_icons=true&theme=tokyonight)
+![LeetCode Stats](https://leetcard.jacoblin.cool/coderaditya888)
+![Skills](https://skillicons.dev/icons?i=cpp,nodejs,express,mongodb,js)
 
 <!--
 **Calladitya/Calladitya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
