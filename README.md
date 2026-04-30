@@ -3,11 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Strong+DSA+with+C%2B%2B;Full+Stack+Developer;Backend+Engineer;Consistent+Learner&center=true&size=25">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Calladitya&theme=tokyo-night" />
-</p>  
----
+<img src="https://github-profile-trophy.vercel.app/?username=Calladitya&theme=tokyonight&no-frame=true&margin-w=10" />
 
 ## 🚀 About Me
 
