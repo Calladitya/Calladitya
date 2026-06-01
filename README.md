@@ -21,14 +21,6 @@
 
 ---
 
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/coderaditya888" />
-</p>
-
----
-
 ## 🔥 Featured Projects
 
 * 📝 Blog App → Full backend system with auth, likes & comments
