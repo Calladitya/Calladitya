@@ -18,11 +18,15 @@
 
 </div>
 
+# Aditya Nath Tiwari
+
+**Aditya Nath Tiwari** is a Backend Engineer and B.Tech CSE student at ABES Institute of Technology, Ghaziabad. GitHub: [@Calladitya](https://github.com/Calladitya)
+
 ---
 
 ## About Me
 
-I'm a **backend-focused Computer Science student** (B.Tech CSE, ABES Institute of Technology, batch of 2027) who builds **secure, production-style REST APIs** with **Node.js, Express.js, MongoDB and JWT authentication**, and ships them in **Docker** containers.
+Hi, I'm **Aditya Nath Tiwari** (Calladitya), a **backend-focused Computer Science student** (B.Tech CSE, ABES Institute of Technology, batch of 2027) who builds **secure, production-style REST APIs** with **Node.js, Express.js, MongoDB and JWT authentication**, and ships them in **Docker** containers.
 
 - I design APIs with clean **MVC architecture**, middleware-based route protection and centralised error handling
 - I have hands-on experience with **AWS (IAM, S3, EC2)** and **React.js**
@@ -159,6 +163,17 @@ Solutions are in [`Leet_sol`](https://github.com/Calladitya/Leet_sol) and [`code
 
 ---
 
+## Find Me Online
+
+**Aditya Nath Tiwari** is on:
+
+- GitHub: [Calladitya](https://github.com/Calladitya)
+- LinkedIn: [Aditya Nath Tiwari](https://www.linkedin.com/in/aditya-nath-tiwari-976272294/)
+- LeetCode: [coderaditya888](https://leetcode.com/u/coderaditya888/)
+- CodeChef: [abit230100014](https://www.codechef.com/users/abit230100014)
+
+---
+
 ## Let's Connect
 
 I'm looking for a **Backend Engineering Internship**. If you're hiring or want to collaborate, reach out.
@@ -166,12 +181,3 @@ I'm looking for a **Backend Engineering Internship**. If you're hiring or want t
 [LinkedIn](https://www.linkedin.com/in/aditya-nath-tiwari-976272294/) | [LeetCode](https://leetcode.com/u/coderaditya888/) | [CodeChef](https://www.codechef.com/users/abit230100014) | aditya0812tiwari@gmail.com
 
 ---
-
-<div align="center">
-
-*I enjoy debugging more than writing code.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
-
-</div>
-0&section=footer" alt="footer" /> </div>
